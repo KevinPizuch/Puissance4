@@ -1,0 +1,51 @@
+<!--
+			<div class="trou" style="left: 15px; top: 15px;"></div>
+			<img class="grille" src="grille.png" style="left: 15px; top: 675px;">
+			<img class="grille" src="grille.png" style="left: 15px; top: 565px;">
+			<img class="grille" src="grille.png" style="left: 15px; top: 455px;">
+			<img class="grille" src="grille.png" style="left: 15px; top: 345px;">
+			<img class="grille" src="grille.png" style="left: 15px; top: 235px;">
+			<img class="grille" src="grille.png" style="left: 15px; top: 125px;">
+			<div class="trou" style="left: 125px; top: 15px;"></div>
+			<img class="grille" src="grille.png" style="left: 125px; top: 675px;">
+			<img class="grille" src="grille.png" style="left: 125px; top: 565px;">
+			<img class="grille" src="grille.png" style="left: 125px; top: 455px;">
+			<img class="grille" src="grille.png" style="left: 125px; top: 345px;">
+			<img class="grille" src="grille.png" style="left: 125px; top: 235px;">
+			<img class="grille" src="grille.png" style="left: 125px; top: 125px;">
+			<div class="trou" style="left: 235px; top: 15px;"></div>
+			<img class="grille" src="grille.png" style="left: 235px; top: 675px;">
+			<img class="grille" src="grille.png" style="left: 235px; top: 565px;">
+			<img class="grille" src="grille.png" style="left: 235px; top: 455px;">
+			<img class="grille" src="grille.png" style="left: 235px; top: 345px;">
+			<img class="grille" src="grille.png" style="left: 235px; top: 235px;">
+			<img class="grille" src="grille.png" style="left: 235px; top: 125px;">
+			<div class="trou" style="left: 345px; top: 15px;"></div>
+			<img class="grille" src="grille.png" style="left: 345px; top: 675px;">
+			<img class="grille" src="grille.png" style="left: 345px; top: 565px;">
+			<img class="grille" src="grille.png" style="left: 345px; top: 455px;">
+			<img class="grille" src="grille.png" style="left: 345px; top: 345px;">
+			<img class="grille" src="grille.png" style="left: 345px; top: 235px;">
+			<img class="grille" src="grille.png" style="left: 345px; top: 125px;">
+			<div class="trou" style="left: 455px; top: 15px;"></div>
+			<img class="grille" src="grille.png" style="left: 455px; top: 675px;">
+			<img class="grille" src="grille.png" style="left: 455px; top: 565px;">
+			<img class="grille" src="grille.png" style="left: 455px; top: 455px;">
+			<img class="grille" src="grille.png" style="left: 455px; top: 345px;">
+			<img class="grille" src="grille.png" style="left: 455px; top: 235px;">
+			<img class="grille" src="grille.png" style="left: 455px; top: 125px;">
+			<div class="trou" style="left: 565px; top: 15px;"></div>
+			<img class="grille" src="grille.png" style="left: 565px; top: 675px;">
+			<img class="grille" src="grille.png" style="left: 565px; top: 565px;">
+			<img class="grille" src="grille.png" style="left: 565px; top: 455px;">
+			<img class="grille" src="grille.png" style="left: 565px; top: 345px;">
+			<img class="grille" src="grille.png" style="left: 565px; top: 235px;">
+			<img class="grille" src="grille.png" style="left: 565px; top: 125px;">
+			<div class="trou" style="left: 675px; top: 15px;"></div>
+			<img class="grille" src="grille.png" style="left: 675px; top: 675px;">
+			<img class="grille" src="grille.png" style="left: 675px; top: 565px;">
+			<img class="grille" src="grille.png" style="left: 675px; top: 455px;">
+			<img class="grille" src="grille.png" style="left: 675px; top: 345px;">
+			<img class="grille" src="grille.png" style="left: 675px; top: 235px;">
+			<img class="grille" src="grille.png" style="left: 675px; top: 125px;">
+		-->
